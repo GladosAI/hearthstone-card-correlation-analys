@@ -1,0 +1,8 @@
+*.db
+/mashape_key.txt
+re
+sqlite3
+__pycache__
+*.pyc
+*.ini
+.vscode/*
